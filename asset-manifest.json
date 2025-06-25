@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/coopcom-website/static/css/main.e6c13ad2.css",
-    "main.js": "/coopcom-website/static/js/main.8f695473.js",
+    "main.js": "/coopcom-website/static/js/main.a8be4817.js",
     "static/js/453.31969895.chunk.js": "/coopcom-website/static/js/453.31969895.chunk.js",
     "static/media/identity.jpg": "/coopcom-website/static/media/identity.bbe7c8e91ccb64402876.jpg",
     "static/media/logo.png": "/coopcom-website/static/media/logo.51c6f9a343c88e72baef.png",
@@ -12,11 +12,11 @@
     "static/media/web-dev.webp": "/coopcom-website/static/media/web-dev.8f173ad1c28e983e92c8.webp",
     "index.html": "/coopcom-website/index.html",
     "main.e6c13ad2.css.map": "/coopcom-website/static/css/main.e6c13ad2.css.map",
-    "main.8f695473.js.map": "/coopcom-website/static/js/main.8f695473.js.map",
+    "main.a8be4817.js.map": "/coopcom-website/static/js/main.a8be4817.js.map",
     "453.31969895.chunk.js.map": "/coopcom-website/static/js/453.31969895.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.8f695473.js"
+    "static/js/main.a8be4817.js"
   ]
 }
