@@ -34,7 +34,7 @@ A modern, responsive website for CoopCom built with React, TypeScript, and Mater
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/coopcom-website.git
+git clone https://github.com/M6E6D6/coopcom-website.git
 cd coopcom-website
 ```
 
@@ -91,4 +91,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 CoopCom - contact@coopcom.fr
 
-Project Link: [https://github.com/your-username/coopcom-website](https://github.com/your-username/coopcom-website)
+Project Link: [https://github.com/M6E6D6/coopcom-website](https://github.com/M6E6D6/coopcom-website)
