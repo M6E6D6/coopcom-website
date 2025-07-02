@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/coopcom-website/static/css/main.e6c13ad2.css",
-    "main.js": "/coopcom-website/static/js/main.3749e9b9.js",
+    "main.js": "/coopcom-website/static/js/main.e2df2afe.js",
     "static/js/453.31969895.chunk.js": "/coopcom-website/static/js/453.31969895.chunk.js",
     "static/media/landingpage.jpeg": "/coopcom-website/static/media/landingpage.0013c8582a9bf7c58db7.jpeg",
     "static/media/home background.jpg": "/coopcom-website/static/media/home background.3a38d7ffbdb31d0b47b7.jpg",
@@ -27,13 +27,14 @@
     "static/media/influencer-from-south-africa-vlogging-while-self-isolating.webp": "/coopcom-website/static/media/influencer-from-south-africa-vlogging-while-self-isolating.642c3ceed0fa235cdfe5.webp",
     "static/media/Logo_Google_Analytics.png": "/coopcom-website/static/media/Logo_Google_Analytics.7c7f617f6b49470ecc6c.png",
     "static/media/web-dev.webp": "/coopcom-website/static/media/web-dev.8f173ad1c28e983e92c8.webp",
+    "static/media/Persuasion-1-300x262.webp": "/coopcom-website/static/media/Persuasion-1-300x262.ae9e670ee1a3f2aa1c0b.webp",
     "index.html": "/coopcom-website/index.html",
     "main.e6c13ad2.css.map": "/coopcom-website/static/css/main.e6c13ad2.css.map",
-    "main.3749e9b9.js.map": "/coopcom-website/static/js/main.3749e9b9.js.map",
+    "main.e2df2afe.js.map": "/coopcom-website/static/js/main.e2df2afe.js.map",
     "453.31969895.chunk.js.map": "/coopcom-website/static/js/453.31969895.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.3749e9b9.js"
+    "static/js/main.e2df2afe.js"
   ]
 }
