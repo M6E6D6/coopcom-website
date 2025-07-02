@@ -10,7 +10,7 @@ import Contact from './pages/Contact';
 import Portfolio from './pages/Portfolio';
 import Blog from './pages/Blog';
 import theme from './theme';
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import coopcomLogo from './images/logo.png';
 import { Box, Button } from '@mui/material';
 import { styled } from '@mui/material/styles';
@@ -37,6 +37,14 @@ const SplashLogo = styled(motion.img)(() => ({
   objectFit: 'contain',
   marginBottom: 48,
 }));
+
+function ScrollToTop() {
+  const { pathname } = useLocation();
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, [pathname]);
+  return null;
+}
 
 function AppWithSplash() {
   const [showSplash, setShowSplash] = useState(true);
@@ -107,6 +115,7 @@ function App() {
     <ThemeProvider theme={theme}>
       <CssBaseline />
       <Router>
+        <ScrollToTop />
         <AppWithSplash />
       </Router>
     </ThemeProvider>
