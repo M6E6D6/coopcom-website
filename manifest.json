@@ -1,6 +1,6 @@
 {
   "short_name": "CoopCom",
-  "name": "CoopCom - Communication Digitale Humaine",
+  "name": "CoopCom",
   "icons": [
     {
       "src": "favicon.ico",
@@ -20,6 +20,6 @@
   ],
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#ffb74d",
+  "theme_color": "#000000",
   "background_color": "#ffffff"
 }

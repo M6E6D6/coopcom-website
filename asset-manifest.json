@@ -1,22 +1,38 @@
 {
   "files": {
     "main.css": "/coopcom-website/static/css/main.e6c13ad2.css",
-    "main.js": "/coopcom-website/static/js/main.a8be4817.js",
+    "main.js": "/coopcom-website/static/js/main.5c44b0e5.js",
     "static/js/453.31969895.chunk.js": "/coopcom-website/static/js/453.31969895.chunk.js",
+    "static/media/home background.jpg": "/coopcom-website/static/media/home background.3a38d7ffbdb31d0b47b7.jpg",
+    "static/media/background.jpg": "/coopcom-website/static/media/background.bec1bcf8db3d824e8362.jpg",
+    "static/media/portfolio background.jpg": "/coopcom-website/static/media/portfolio background.af88855fd8d073d8d5cc.jpg",
+    "static/media/services background.jpg": "/coopcom-website/static/media/services background.67ae172eeec882e5e1cc.jpg",
+    "static/media/about background.jpg": "/coopcom-website/static/media/about background.611423957b5f065fa65b.jpg",
     "static/media/identity.jpg": "/coopcom-website/static/media/identity.bbe7c8e91ccb64402876.jpg",
+    "static/media/Hicham Saïdi.jpeg": "/coopcom-website/static/media/Hicham Saïdi.6c07c331a5d6def543a4.jpeg",
+    "static/media/Mohamed Elouafi.jpeg": "/coopcom-website/static/media/Mohamed Elouafi.4d12de46fed20b51c21e.jpeg",
+    "static/media/Cisse gaoussou.jpg": "/coopcom-website/static/media/Cisse gaoussou.4bf97c08b60572832a7a.jpg",
+    "static/media/Salima Fahmi.jpeg": "/coopcom-website/static/media/Salima Fahmi.5d00f9a9c243d6a48b69.jpeg",
     "static/media/logo.png": "/coopcom-website/static/media/logo.51c6f9a343c88e72baef.png",
+    "static/media/Rahma.jpeg": "/coopcom-website/static/media/Rahma.d6b07cb0f8f62981eaf4.jpeg",
+    "static/media/Meriem Bougader.jpeg": "/coopcom-website/static/media/Meriem Bougader.61a6ea90b17efccd5709.jpeg",
+    "static/media/Younes El Kirame.jpeg": "/coopcom-website/static/media/Younes El Kirame.b55724cbe12c30cca66b.jpeg",
+    "static/media/tp-dev-web-web-mobile.jpeg": "/coopcom-website/static/media/tp-dev-web-web-mobile.101c9effa03f148baadd.jpeg",
     "static/media/social-media.webp": "/coopcom-website/static/media/social-media.ab27e9af9c648e943a24.webp",
     "static/media/young-women-recording-podcast-in-studio.webp": "/coopcom-website/static/media/young-women-recording-podcast-in-studio.140eb20f111400e4be58.webp",
+    "static/media/Brandwatch_logo.png": "/coopcom-website/static/media/Brandwatch_logo.dcd0ce69711afbe84cda.png",
+    "static/media/Drim Mohamed.jpeg": "/coopcom-website/static/media/Drim Mohamed.f957482a5c403b253efb.jpeg",
+    "static/media/COOPCOM.jpg": "/coopcom-website/static/media/COOPCOM.3213795a15f7ba870fcf.jpg",
     "static/media/influencer-from-south-africa-vlogging-while-self-isolating.webp": "/coopcom-website/static/media/influencer-from-south-africa-vlogging-while-self-isolating.642c3ceed0fa235cdfe5.webp",
     "static/media/Logo_Google_Analytics.png": "/coopcom-website/static/media/Logo_Google_Analytics.7c7f617f6b49470ecc6c.png",
     "static/media/web-dev.webp": "/coopcom-website/static/media/web-dev.8f173ad1c28e983e92c8.webp",
     "index.html": "/coopcom-website/index.html",
     "main.e6c13ad2.css.map": "/coopcom-website/static/css/main.e6c13ad2.css.map",
-    "main.a8be4817.js.map": "/coopcom-website/static/js/main.a8be4817.js.map",
+    "main.5c44b0e5.js.map": "/coopcom-website/static/js/main.5c44b0e5.js.map",
     "453.31969895.chunk.js.map": "/coopcom-website/static/js/453.31969895.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.a8be4817.js"
+    "static/js/main.5c44b0e5.js"
   ]
 }
