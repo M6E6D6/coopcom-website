@@ -29,13 +29,22 @@ const SplashScreen = styled(Box)(({ theme }) => ({
   left: 0,
   zIndex: 2000,
   overflow: 'hidden',
+  padding: '0 16px',
+  [theme.breakpoints.down('sm')]: {
+    padding: '0 4px',
+  },
 }));
 
-const SplashLogo = styled(motion.img)(() => ({
+const SplashLogo = styled(motion.img)(({ theme }) => ({
   width: 500,
   height: 500,
   objectFit: 'contain',
   marginBottom: 48,
+  [theme.breakpoints.down('sm')]: {
+    width: 180,
+    height: 180,
+    marginBottom: 24,
+  },
 }));
 
 function ScrollToTop() {
@@ -89,7 +98,7 @@ function AppWithSplash() {
             variant="contained"
             color="primary"
             size="large"
-            sx={{ fontSize: '1.5rem', px: 6, py: 2, borderRadius: 8, fontWeight: 700, mt: 2 }}
+            sx={{ fontSize: { xs: '1.1rem', sm: '1.5rem' }, px: { xs: 4, sm: 6 }, py: { xs: 1.5, sm: 2 }, borderRadius: 8, fontWeight: 700, mt: { xs: 1, sm: 2 } }}
             onClick={handleEnter}
           >
             Enter

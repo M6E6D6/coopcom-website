@@ -34,15 +34,25 @@ const HeroSection = styled(Box)(({ theme }) => ({
   textAlign: 'center',
   background: `linear-gradient(135deg, #fffbe6 0%, #f5e9da 100%)`,
   position: 'relative',
+  padding: '0 24px',
+  [theme.breakpoints.down('sm')]: {
+    padding: '0 6px',
+    minHeight: '60vh',
+  },
 }));
 
-const BigLogo = styled('img')(() => ({
+const BigLogo = styled('img')(({ theme }) => ({
   width: 260,
   height: 260,
   marginBottom: 32,
   borderRadius: '50%',
   boxShadow: '0 8px 32px rgba(255,183,77,0.13)',
   background: 'rgba(255,255,255,0.85)',
+  [theme.breakpoints.down('sm')]: {
+    width: 120,
+    height: 120,
+    marginBottom: 16,
+  },
 }));
 
 const SectionTitle = styled(Typography)(({ theme }) => ({
@@ -52,6 +62,10 @@ const SectionTitle = styled(Typography)(({ theme }) => ({
   marginBottom: theme.spacing(2),
   fontSize: '2.5rem',
   letterSpacing: 1,
+  [theme.breakpoints.down('sm')]: {
+    fontSize: '1.5rem',
+    marginBottom: theme.spacing(1),
+  },
 }));
 
 const SectionSub = styled(Typography)(({ theme }) => ({
@@ -62,6 +76,10 @@ const SectionSub = styled(Typography)(({ theme }) => ({
   maxWidth: 700,
   marginLeft: 'auto',
   marginRight: 'auto',
+  [theme.breakpoints.down('sm')]: {
+    fontSize: '1rem',
+    marginBottom: theme.spacing(2),
+  },
 }));
 
 const ModernServiceCard = styled(Card)(({ theme }) => ({
