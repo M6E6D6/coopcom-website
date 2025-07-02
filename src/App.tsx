@@ -63,6 +63,7 @@ function AppWithSplash() {
           component="img"
           src={landingBg}
           alt="Landing Background"
+          loading="lazy"
           sx={{
             position: 'absolute',
             top: 0,
@@ -79,6 +80,7 @@ function AppWithSplash() {
           <SplashLogo
             src={coopcomLogo}
             alt="CoopCom Logo"
+            loading="lazy"
             initial={{ scale: 0.7, opacity: 0 }}
             animate={{ scale: [0.7, 1.1, 1], opacity: 1, y: [0, -18, 0] }}
             transition={{ duration: 1.2, ease: [0.4, 0, 0.2, 1], times: [0, 0.7, 1], repeat: Infinity, repeatType: 'reverse', repeatDelay: 1.5 }}
